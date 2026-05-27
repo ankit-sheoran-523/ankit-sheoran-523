@@ -1,4 +1,4 @@
-# Hi, I'm Ankit Sheoran 👋
+# Hi, I'm Ankit Sheoran
 
 ### Data Analyst & Data Scientist
 
@@ -24,7 +24,7 @@ I bring practical experience in building predictive models, optimizing analytica
 
 I am dedicated to continuous professional growth and am currently seeking a collaborative **Data Science or Data Analysis  internship**. I am eager to tackle real-world projects, refine my skills in advanced model evaluation, and contribute meaningful insights alongside an experienced technical team.
 
-## 📫 Let's Connect
+## 🔗 Let's Connect
 
 * **LinkedIn:** [www.linkedin.com/in/ankit-sheoran-349740159]
 * **Email:** [ankit.bkbiet25@gmail.com]
